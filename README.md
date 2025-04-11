@@ -1,4 +1,4 @@
-### Hi, I'm Amiq 👋 <sup>Flutter Developer by ☼ Android Developer ☾</sup>
+### Hi, I'm Amiq 👋 <sup>Flutter Developer by ☼ Android Developer by ☾</sup>
 
 ---
 
